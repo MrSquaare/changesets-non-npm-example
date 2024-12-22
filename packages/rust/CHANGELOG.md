@@ -1,5 +1,11 @@
 # rust
 
+## 0.0.2
+
+### Patch Changes
+
+- [#5](https://github.com/MrSquaare/changesets-non-npm-example/pull/5) [`278fd43`](https://github.com/MrSquaare/changesets-non-npm-example/commit/278fd43d5eef3bbda43509d914ac5ab9e273db1a) Thanks [@MrSquaare](https://github.com/MrSquaare)! - Update hello message
+
 ## 0.0.1
 
 ### Patch Changes
