@@ -1,0 +1,11 @@
+[tools]
+go = "latest"
+rust = "latest"
+zig = "latest"
+node = "22"
+
+[tasks.go]
+run = "cd packages/go && go run main.go"
+
+[tasks.rust]
+run = "cd packages/rust && cargo run && cargo clean"

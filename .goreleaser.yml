@@ -1,0 +1,10 @@
+version: 2
+builds:
+  - id: go
+    dir: ./packages/go
+    binary: go
+    builder: go
+  - id: rust
+    dir: ./packages/rust
+    binary: rust
+    builder: rust
