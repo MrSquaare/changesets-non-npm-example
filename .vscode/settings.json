@@ -1,7 +1,0 @@
-{
-  "editor.formatOnSave": true,
-  "go.goroot": "/home/mrsquaare/.local/share/mise/installs/go/latest",
-  "[go]": {
-		"editor.defaultFormatter": "golang.go"
-	},
-}
